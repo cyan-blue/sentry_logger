@@ -43,7 +43,7 @@ oauth2==1.9.0.post1
 packaging==16.8
 percy==0.4.4
 petname==1.7
-Pillow==3.2.0
+Pillow==9.0.0
 progressbar2==3.10.1
 psycopg2==2.6.2
 py==1.4.33
